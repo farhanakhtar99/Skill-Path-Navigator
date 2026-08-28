@@ -14,6 +14,9 @@ role. It works, but it's slow to write, awkward to read, and gets worse
 the more hops you allow.
 
 <img width="1118" height="866" alt="image" src="https://github.com/user-attachments/assets/254bb326-1bdb-4234-bb8e-7efc1dd2e3d2" />
+<img width="1160" height="795" alt="image" src="https://github.com/user-attachments/assets/2a6329e0-94bc-448c-8843-710c6744b747" />
+![Uploading image.png…]()
+
 
 
 In Cypher, the same question is one readable pattern:
