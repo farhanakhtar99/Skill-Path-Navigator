@@ -12,7 +12,7 @@ const app = express();
 app.use(
   cors({
     origin: [
-      "https://skill-path-navigator.vercel.app",
+      "https://skill-path-navigator-tqfg.vercel.app",
       "http://localhost:5173",
     ],
     credentials: true,
