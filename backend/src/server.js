@@ -9,15 +9,15 @@ const readinessRoutes = require("./routes/readiness");
 const pathRoutes = require("./routes/path");
 
 const app = express();
-// app.use(
-//   cors({
-//     origin: [
-//       "https://skill-path-navigator.vercel.app",
-//       "http://localhost:5173",
-//     ],
-//     credentials: true,
-//   }),
-// );
+app.use(
+  cors({
+    origin: [
+      "https://skill-path-navigator.vercel.app",
+      "http://localhost:5173",
+    ],
+    credentials: true,
+  }),
+);
 
 app.use(cors());
 
