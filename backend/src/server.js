@@ -19,6 +19,8 @@ const app = express();
 //   }),
 // );
 
+app.use(cors());
+
 app.use(express.json());
 
 // Health check: confirms the API is up AND can actually reach CognoDB.
