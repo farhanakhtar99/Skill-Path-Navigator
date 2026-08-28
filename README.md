@@ -13,6 +13,9 @@ joined against a `role_requirements` table, grouped and aggregated per
 role. It works, but it's slow to write, awkward to read, and gets worse
 the more hops you allow.
 
+<img width="1118" height="866" alt="image" src="https://github.com/user-attachments/assets/254bb326-1bdb-4234-bb8e-7efc1dd2e3d2" />
+
+
 In Cypher, the same question is one readable pattern:
 
 ```cypher
