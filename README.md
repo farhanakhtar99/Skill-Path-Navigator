@@ -19,6 +19,9 @@ the more hops you allow.
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/56fa190a-f8b9-4786-bd5c-4f65bab9fddc" />
 
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/6df6592b-dcb8-4e11-bdef-6ea515b71702" />
+
+
 
 In Cypher, the same question is one readable pattern:
 
