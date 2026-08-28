@@ -1,4 +1,4 @@
-#### Live demo: https://vercel.com/farhanakhtar9468-7842s-projects/skill-path-navigator
+#### Live demo: https://skill-path-navigator.vercel.app
 
 ## Why a graph database?
 
