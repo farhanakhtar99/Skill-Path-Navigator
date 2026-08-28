@@ -11,10 +11,11 @@ const pathRoutes = require("./routes/path");
 const app = express();
 app.use(
   cors({
-    origin: ["https://skill-path-navigator.vercel.app/"],
+    origin: ["https://skill-path-navigator.vercel.app"],
     credentials: true,
   }),
 );
+
 app.use(express.json());
 
 // Health check: confirms the API is up AND can actually reach CognoDB.
