@@ -19,6 +19,7 @@ the more hops you allow.
 
 
 
+
 In Cypher, the same question is one readable pattern:
 
 ```cypher
