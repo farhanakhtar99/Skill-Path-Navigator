@@ -2,7 +2,8 @@
 // Thin wrapper around fetch. Keeps the base URL in one place and turns
 // non-OK responses into thrown errors the UI can catch and display.
 
-const API_URL = import.meta.env.VITE_API_URL || "http://localhost:4000";
+const API_URL =
+  import.meta.env.VITE_API_URL || "https://skill-path-navigator.onrender.com";
 
 async function request(path, options) {
   const res = await fetch(`${API_URL}${path}`, {
